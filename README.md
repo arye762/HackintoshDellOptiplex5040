@@ -3,17 +3,29 @@ Got a Dell Optiplex 5040 for a good price and decided to create this repo for le
 Modificagtion
 1. Disconnect CD Drive
 2. Bios Setup
+   
   a. General>Boot Sqeunce>(Check OpenCore if there is) and UEFI:(storage where your gonna install the OS)
+  
   b. General>Advanced Boot>Disable Legacy Options ROMs
+  
   c. Performance>HyperThread Control>Enabled
+  
   d. Intel Software Guard Extensions>Disabled
+  
   e. Secure Boot Enabled>Disabled
+  
   f. Video>Multi-Display>Enable Multi-Display(if any)
+  
   g. System Configuration>Integrated NIC>Enabled
+  
   h. System Configuration>Serial Port>Disabled
+  
   i. System Configuration>SATA Operation>AHCI
+  
   j. System Configuration>USB Configuratioin>Enable everything
+  
   k. Virtualization Support>Virtualization>Enable Intel Virtualization Technology
+  
   l. Security>CPU XD>Enabled
 
 Hardware:
