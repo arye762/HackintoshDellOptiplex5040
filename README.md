@@ -44,5 +44,7 @@ I got a Dell Optiplex 5040 for a reasonable price and decided to create this rep
 
 ## References:
 - Primary Reference I used: https://www.tonymacx86.com/threads/almost-success-dell-optiplex-5040.331274/
-- Understanding Opencore and preparing USB installer and how to do CFG lock https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html#turning-off-cfg-lock-manually
+- Getting started with OpenCore https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html#prerequisites
+- Open Core preparing the USB Installer: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
+- Understanding Opencore how to do CFG lock https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html#turning-off-cfg-lock-manually
 - This Video helped me learn how to use GRUB Shell in modifying DVMT, CFG Lock, and 4G Encoding https://www.youtube.com/watch?v=wcfU0xNvpDM&t=285s
