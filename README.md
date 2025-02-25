@@ -118,7 +118,4 @@ I got a Dell OptiPlex 5040 for a reasonable price and decided to create this rep
 
 ---
 
-This should now be easier to read, with fewer errors and better formatting. Let me know if you need further refinements!
-
- can I have the .md file or code
 
