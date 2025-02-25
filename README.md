@@ -121,7 +121,4 @@ Dell Optiplex 5040 | i7 i7-6700 Quad Core 3.4GHz | 16GB Memory | 256GB SSD | Sma
 
 ---
 
-This should now be easier to read, with fewer errors and better formatting. Let me know if you need further refinements!
-
- can I have the .md file or code
 
