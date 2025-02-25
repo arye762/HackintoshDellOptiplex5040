@@ -2,6 +2,9 @@
 
 I got a Dell OptiPlex 5040 for a reasonable price and decided to create this repo for learning purposes in converting it into macOS 15.2 Sequoia.
 
+## Hardware Specs
+Dell Optiplex 5040 | i7 i7-6700 Quad Core 3.4GHz | 16GB Memory | 256GB SSD | Small Form Factor
+
 ## Hardware Requirements
 
 - Wireless Keyboard & Mouse (USB Dongle)
