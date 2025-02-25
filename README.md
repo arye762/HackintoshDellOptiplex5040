@@ -2,6 +2,9 @@
 
 I got a Dell OptiPlex 5040 for a reasonable price and decided to create this repo for learning purposes in converting it into macOS 15.2 Sequoia.
 
+## Disclaimer
+This guide is only for Learning purposes. I'm not responsible for any damage you caused to your device. This guide is provided "as-is," and all steps are taken at your own risk.
+
 ## Hardware Specs
 Dell Optiplex 5040 | i7-6700 Quad Core 3.4GHz | 16GB Memory | 256GB SSD | Small Form Factor
 
@@ -23,6 +26,8 @@ Dell Optiplex 5040 | i7-6700 Quad Core 3.4GHz | 16GB Memory | 256GB SSD | Small 
 ### Prepare the Installation USB Thumb Drive
 
 1. Follow the steps in this guide: [OpenCore macOS Installer Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html#downloading-macos-modern-os).
+
+>If on Windows, refer to this guide for OpenCore installation: [Windows Installation Guide](https://github.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh-OpenCore/tree/Ventura).
 
 2. If using macOS, format the USB drive properly:
 
@@ -53,7 +58,6 @@ Dell Optiplex 5040 | i7-6700 Quad Core 3.4GHz | 16GB Memory | 256GB SSD | Small 
 1. Copy `UTBMap.kext` along with `USBToolBox.kext` from the latest release here: [USBToolBox](https://github.com/USBToolBox/tool?tab=readme-ov-file).
 2. Install **OCAuxiliaryTools** on macOS and update **GenSMBIOS** to generate serial numbers. Set the machine as `iMac18,1` or `iMac18,2`.
 3. Update and merge all kext files.
-4. If on Windows, refer to this guide for OpenCore installation: [Windows Installation Guide](https://github.com/alienator88/ASUS-TUF-Z390M-Pro-Gaming-Hackintosh-OpenCore/tree/Ventura).
 
 ## BIOS Settings
 
