@@ -1,6 +1,9 @@
-# Converting Dell OptiPlex 5040 to macOS 15.2 Sequoia
+# Converting Dell OptiPlex 5040 to macOS 15.3 Sequoia
 
-I got a Dell OptiPlex 5040 for a reasonable price and decided to create this repo for learning purposes in converting it into macOS 15.2 Sequoia.
+I got a Dell OptiPlex 5040 for a reasonable price and decided to create this repo for learning purposes in converting it into macOS 15.3 Sequoia.
+
+![Screenshot 2025-03-10 at 8 47 12 PM](https://github.com/user-attachments/assets/e7e76f1c-d0d9-4a13-a876-bd8cc1a3202d)
+
 
 ## Disclaimer
 This guide is only for Learning purposes. I'm not responsible for any damage you caused to your device. This guide is provided "as-is," and all steps are taken at your own risk.
