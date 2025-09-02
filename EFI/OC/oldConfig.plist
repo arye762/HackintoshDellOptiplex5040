@@ -195,6 +195,8 @@
                 <false/>
                 <key>AvoidRuntimeDefrag</key>
                 <true/>
+                <key>ClearTaskSwitchBit</key>
+                <true/>
                 <key>DevirtualiseMmio</key>
                 <false/>
                 <key>DisableSingleUser</key>
@@ -319,7 +321,7 @@
                     <key>BundlePath</key>
                     <string>Lilu.kext</string>
                     <key>Comment</key>
-                    <string>V1.7.0 | Patch engine</string>
+                    <string>V1.7.1 | Patch engine</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -337,7 +339,7 @@
                     <key>BundlePath</key>
                     <string>VirtualSMC.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.4 | SMC emulator</string>
+                    <string>V1.3.7 | SMC emulator</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -355,7 +357,7 @@
                     <key>BundlePath</key>
                     <string>WhateverGreen.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.9</string>
+                    <string>V1.7.0</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -373,7 +375,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.9.3 | Audio patches</string>
+                    <string>V1.9.5 | Audio patches</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -409,7 +411,7 @@
                     <key>BundlePath</key>
                     <string>BlueToolFixup.kext</string>
                     <key>Comment</key>
-                    <string>V2.6.9 | BlueToolFixup.kext</string>
+                    <string>V2.7.1 | BlueToolFixup.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -427,7 +429,7 @@
                     <key>BundlePath</key>
                     <string>BrcmBluetoothInjector.kext</string>
                     <key>Comment</key>
-                    <string>V2.6.9 | BrcmBluetoothInjector.kext</string>
+                    <string>V2.7.1 | BrcmBluetoothInjector.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -445,7 +447,7 @@
                     <key>BundlePath</key>
                     <string>BrcmFirmwareData.kext</string>
                     <key>Comment</key>
-                    <string>V2.6.9 | BrcmFirmwareData.kext</string>
+                    <string>V2.7.1 | BrcmFirmwareData.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -463,7 +465,7 @@
                     <key>BundlePath</key>
                     <string>BrcmPatchRAM3.kext</string>
                     <key>Comment</key>
-                    <string>V2.6.9 | BrcmPatchRAM3.kext</string>
+                    <string>V2.7.1 | BrcmPatchRAM3.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -481,7 +483,7 @@
                     <key>BundlePath</key>
                     <string>NVMeFix.kext</string>
                     <key>Comment</key>
-                    <string>V1.1.2 | NVMeFix.kext</string>
+                    <string>V1.1.3 | NVMeFix.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -499,7 +501,7 @@
                     <key>BundlePath</key>
                     <string>SMCProcessor.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.4 | SMCProcessor.kext</string>
+                    <string>V1.3.7 | SMCProcessor.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -517,7 +519,7 @@
                     <key>BundlePath</key>
                     <string>SMCSuperIO.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.4 | SMCSuperIO.kext</string>
+                    <string>V1.3.7 | SMCSuperIO.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
